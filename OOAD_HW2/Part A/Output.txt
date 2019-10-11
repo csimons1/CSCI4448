@@ -1,0 +1,85 @@
+The Zookeeper wakes up the animals of the zoo.
+Carl, the Cat is waking up.
+Cathy, the Cat is waking up.
+Lilly, the Lion is waking up.
+Liam, the Lion is waking up.
+Timothy, the Tiger is waking up.
+Tina, the Tiger is waking up.
+Donny, the Dog is waking up.
+Doug, the Dog is waking up.
+Wallace, the Wolf is waking up.
+Willy, the Wolf is waking up.
+Rhonda, the Rhino is waking up.
+Ralph, the Rhino is waking up.
+Evan, the Elephant is waking up.
+Eric, the Elephant is waking up.
+Harry, the Hippo is waking up.
+Henry, the Hippo is waking up.
+The Zookeeper does a roll call of all the animals.
+Carl, the Cat makes a generic noise.
+Cathy, the Cat makes a generic noise.
+Lilly, the Lion makes a generic noise.
+Liam, the Lion makes a generic noise.
+Timothy, the Tiger makes a generic noise.
+Tina, the Tiger makes a generic noise.
+Donny, the Dog makes a generic noise.
+Doug, the Dog makes a generic noise.
+Wallace, the Wolf makes a generic noise.
+Willy, the Wolf makes a generic noise.
+Rhonda, the Rhino makes a generic noise.
+Ralph, the Rhino makes a generic noise.
+Evan, the Elephant makes a generic noise.
+Eric, the Elephant makes a generic noise.
+Harry, the Hippo makes a generic noise.
+Henry, the Hippo makes a generic noise.
+The Zookeeper feeds the animals of the zoo.
+Carl, the Cat is eating.
+Cathy, the Cat is eating.
+Lilly, the Lion is eating.
+Liam, the Lion is eating.
+Timothy, the Tiger is eating.
+Tina, the Tiger is eating.
+Donny, the Dog is eating.
+Doug, the Dog is eating.
+Wallace, the Wolf is eating.
+Willy, the Wolf is eating.
+Rhonda, the Rhino is eating.
+Ralph, the Rhino is eating.
+Evan, the Elephant is eating.
+Eric, the Elephant is eating.
+Harry, the Hippo is eating.
+Henry, the Hippo is eating.
+The Zookeeper exercises the animals of the zoo.
+Carl, the Cat is exercising.
+Cathy, the Cat is exercising.
+Lilly, the Lion is exercising.
+Liam, the Lion is exercising.
+Timothy, the Tiger is exercising.
+Tina, the Tiger is exercising.
+Donny, the Dog is exercising.
+Doug, the Dog is exercising.
+Wallace, the Wolf is exercising.
+Willy, the Wolf is exercising.
+Rhonda, the Rhino is exercising.
+Ralph, the Rhino is exercising.
+Evan, the Elephant is exercising.
+Eric, the Elephant is exercising.
+Harry, the Hippo is exercising.
+Henry, the Hippo is exercising.
+The Zookeeper starts to close the zoo, the animals are going to sleep.
+Carl, the Cat is sleeping.
+Cathy, the Cat is sleeping.
+Lilly, the Lion is sleeping.
+Liam, the Lion is sleeping.
+Timothy, the Tiger is sleeping.
+Tina, the Tiger is sleeping.
+Donny, the Dog is sleeping.
+Doug, the Dog is sleeping.
+Wallace, the Wolf is sleeping.
+Willy, the Wolf is sleeping.
+Rhonda, the Rhino is sleeping.
+Ralph, the Rhino is sleeping.
+Evan, the Elephant is sleeping.
+Eric, the Elephant is sleeping.
+Harry, the Hippo is sleeping.
+Henry, the Hippo is sleeping.
